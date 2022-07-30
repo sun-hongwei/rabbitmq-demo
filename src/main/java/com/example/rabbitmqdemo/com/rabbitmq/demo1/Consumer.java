@@ -15,6 +15,7 @@ import java.util.concurrent.TimeoutException;
 public class Consumer {
 
     //dev
+    //1
 
     private final static String QUEUE_NAME = "MESSAGE_QUEUE";
 
