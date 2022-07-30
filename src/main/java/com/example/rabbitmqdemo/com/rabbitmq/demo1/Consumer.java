@@ -16,6 +16,7 @@ public class Consumer {
 
     //dev
     //1
+    //2
 
     private final static String QUEUE_NAME = "MESSAGE_QUEUE";
 
