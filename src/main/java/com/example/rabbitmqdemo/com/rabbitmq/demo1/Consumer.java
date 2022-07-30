@@ -14,6 +14,8 @@ import java.util.concurrent.TimeoutException;
  */
 public class Consumer {
 
+    //dev
+
     private final static String QUEUE_NAME = "MESSAGE_QUEUE";
 
     public static void main(String[] args) throws IOException, TimeoutException {
